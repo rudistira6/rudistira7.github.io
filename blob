@@ -1,0 +1,12 @@
+<div class="w-24 absolute bottom-2 -left-10 h-24 bg-white/70 rounded-full backdrop-blur-sm"></div>
+<div class="w-24 absolute right-5 top-5 h-24 bg-white/70 rounded-full backdrop-blur-sm"></div>
+<div class="w-24 absolute -bottom-10 left-44 h-24 bg-white/70 rounded-full backdrop-blur-sm"></div>
+
+<div class="flex self-centero">
+  <img src="/images/gaming.svg" alt="" class="w-7 h-7k" />
+  <h1 class="text-[9px] font-semibold text-gray-700 mt-1 font-sans">gaming</h1>
+</div>
+<div class="flex self-center mt-1">
+  <img src="/images/tidur.svg" alt="" class="w-7 h-6" />
+  <h1 class="text-[9px] font-semibold text-gray-700 mt-1 font-sans">tidur</h1>
+</div>
